@@ -11,9 +11,9 @@ This investigation focused on analyzing SMB traffic to determine whether an inte
 
 # Stolen Mount — Network Forensics Case Study
 
-**Challenge:** Stolen Mount (Hackfinity 2025)  
+**Challenge:** Stolen Mount 
 **Discipline:** Network Forensics / NFS Traffic Analysis  
-**Primary Tool:** Wireshark (packet capture analysis)  
+**Primary Tool:** Wireshark
 **Protocol:** NFS (Network File System) over TCP  
 **Objective:** Analyze NFS traffic to identify unauthorized access, extract hidden archive, and assess exfiltration behavior
 
