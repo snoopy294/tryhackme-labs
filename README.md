@@ -17,9 +17,9 @@ Hands-on training across network analysis, SIEM monitoring, intrusion detection 
 
 ---
 
-## 📁 Completed Labs
+## Completed Labs
 
-### 🔍 Network Traffic and Packet Analysis
+### Network Traffic and Packet Analysis
 
 | Lab | Tools | Highlights |
 |-----|-------|-----------|
@@ -30,7 +30,7 @@ Hands-on training across network analysis, SIEM monitoring, intrusion detection 
 
 ---
 
-### 🛡 Intrusion Detection & Attack Monitoring
+### Intrusion Detection & Attack Monitoring
 
 | Lab | Tools | Highlights |
 |-----|-------|-----------|
@@ -41,7 +41,7 @@ Hands-on training across network analysis, SIEM monitoring, intrusion detection 
 
 ---
 
-### 🕵️ Incident Response & Host Forensics
+### Incident Response & Host Forensics
 
 | Lab | Platform | Highlights |
 |-----|----------|-----------|
@@ -52,7 +52,7 @@ Hands-on training across network analysis, SIEM monitoring, intrusion detection 
 
 ---
 
-### 📊 SIEM & Log Analysis
+### SIEM & Log Analysis
 
 | Lab | Platform | Highlights |
 |-----|----------|-----------|
@@ -62,7 +62,7 @@ Hands-on training across network analysis, SIEM monitoring, intrusion detection 
 
 ---
 
-## 🧠 Key Takeaways
+## Key Takeaways
 
 Through these labs, I developed workflows for:
 
@@ -75,21 +75,13 @@ Through these labs, I developed workflows for:
 
 ---
 
-## 🏁 Summary
+## Summary
 
 > Demonstrated SOC-aligned experience across SIEM monitoring, packet analysis, threat hunting, and digital forensics. Comfortable analyzing adversary behavior and providing defensible investigative findings using Splunk, Elastic, Snort, Zeek, and TShark.
 
 ---
 
-## 📌 Next Steps (In Progress)
-
-- Adding visual detection workflows and query snippets  
-- Publishing Splunk and Elastic investigation notes  
-- Expanding signature development for custom Snort rules
-
----
-
-### ✉️ Contact
+### Contact
 
 If you'd like to discuss my work or opportunities in security operations, feel free to reach out.
 Email: liuderek@utexas.edu
