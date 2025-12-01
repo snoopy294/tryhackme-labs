@@ -17,7 +17,7 @@ Hands-on training across network analysis, SIEM monitoring, intrusion detection 
 
 ---
 
-## Completed Labs
+## Completed Labs(Write-ups in progress)
 
 ### Network Traffic and Packet Analysis
 
